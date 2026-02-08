@@ -1,5 +1,5 @@
 ## 👑 About Me
-Hey guys this is Navya!
+
 I’m a highly motivated learner with a strong interest in **Artificial Intelligence and Machine Learning**, focused on building practical, well-structured projects that translate theory into real-world applications. I enjoy working at the intersection of **data, systems, and problem-solving**, and I’m actively developing the skills required to design scalable and reliable ML solutions. My goal is to combine both StreetStyle and AI. Instead of letting AI taking over, we should learn how to get the best of both the worlds. 
 
 🔭 **I’m currently working on**  
