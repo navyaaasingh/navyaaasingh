@@ -21,5 +21,5 @@ AI/ML fundamentals, beginner-friendly project ideas, model training workflows, t
 Analytical thinking • Structured problem-solving • Fast learner • Strong fundamentals • Clear technical communication
 
 ⚡ **Fun fact**  
-I approach AI as an engineering discipline — prioritizing data quality, assumptions, and system design over hype.
+I approach AI as an engineering discipline prioritizing data quality, assumptions, and system design over hype.
 
