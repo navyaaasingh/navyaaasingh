@@ -11,9 +11,6 @@ Open-source AI/ML projects, research-inspired implementations, LLM-based applica
 🤝 **I’m looking for help with**  
 MLOps fundamentals, model deployment strategies, system design for ML pipelines, and improving the performance and interpretability of models.
 
-🌱 **I’m currently learning**  
-Machine Learning, Deep Learning, Neural Networks, PyTorch, core Data Structures & Algorithms, and the foundational concepts behind scalable ML systems.
-
 💬 **Ask me about**  
 AI/ML fundamentals, beginner-friendly project ideas, model training workflows, translating research into code, and building consistent learning systems.
 
