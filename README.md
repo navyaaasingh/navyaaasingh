@@ -8,7 +8,7 @@ End-to-end AI/ML projects involving data collection, preprocessing, model traini
 👯 **I’m looking to collaborate on**  
 Open-source AI/ML projects, research-inspired implementations, LLM-based applications, and tools that combine data-driven insights with strong engineering practices.
 
-🤝 **I’m looking for help with**  
+🤝 **I’m looking for help with these**  
 MLOps fundamentals, model deployment strategies, system design for ML pipelines, and improving the performance and interpretability of models.
 
 💬 **Ask me about**  
